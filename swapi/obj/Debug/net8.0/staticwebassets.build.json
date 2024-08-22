@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9GqAyOWYLYF3rVutW2+VR+/kolDD/Jk1IMq8jf553LM=",
+  "Source": "swapi",
+  "BasePath": "_content/swapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

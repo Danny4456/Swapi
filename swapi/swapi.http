@@ -1,0 +1,6 @@
+@swapi_HostAddress = http://localhost:5177
+
+GET {{swapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
